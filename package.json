@@ -1,5 +1,5 @@
 {
-  "name": "vue-paper-dashboard",
+  "name": "bounty-weave",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@octokit/core": "^3.2.5",
+    "arverify": "^0.0.6",
     "arweave": "^1.10.11",
     "bootstrap": "^4.0.0",
     "chartist": "^0.11.0",
@@ -31,14 +32,5 @@
     "vue-template-compiler": "^2.6.10"
   },
   "description": "A sample admin dashboard based on paper dashboard UI template",
-  "author": "cristian.jora <joracristi@gmail.com>",
-  "engines": {
-    "node": ">= 8.1.4",
-    "npm": ">= 5.0.0"
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
+  "author": "cristian.jora <joracristi@gmail.com>"
 }
