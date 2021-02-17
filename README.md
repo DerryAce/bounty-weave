@@ -1,17 +1,9 @@
-# [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
+# Bounty Weave
 
-> Admin dashboard based on paper dashboard UI template + vue-router
-
-This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/product/paper-dashboard)
-designed for vue js.The dashboard includes vue-router
-
-Check the [Live Demo here](https://cristijora.github.io/vue-paper-dashboard).
-
-[Nuxt Version (outdated Bootstrap 3)](https://github.com/cristijora/vue-paper-dashboard-nuxt)
-![](http://i.imgur.com/3iC1hOs.gif)
+Bounty Weave is a platform that aims to provide a simple and efficient way for developers to fund bounties on github using AR tokens.
 
 ## Documentation
-Link to [Documentation](http://vuejs.creative-tim.com/vue-paper-dashboard/documentation/)
+
 
 ## Build Setup
 

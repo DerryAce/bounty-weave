@@ -11,6 +11,8 @@
     "dev": "npm run serve"
   },
   "dependencies": {
+    "@octokit/core": "^3.2.5",
+    "arweave": "^1.10.11",
     "bootstrap": "^4.0.0",
     "chartist": "^0.11.0",
     "es6-promise": "^4.2.4",
