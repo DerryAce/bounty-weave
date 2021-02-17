@@ -104,7 +104,10 @@
   </card>
 </template>
 <script>
+import { fundIssue }  from '../../helpers'
 export default {
+
+  
   data() {
     return {
       user: {
@@ -121,8 +124,11 @@ export default {
     };
   },
   methods: {
-    updateProfile() {
-      alert("Your data: " + JSON.stringify(this.user));
+    async updateProfile() {
+      //alert("Your data: " + JSON.stringify(this.user));
+
+      const res = await fundIssue('octocat', 'Hello-World' , 804, 'Bounty created :)');
+      console.log(res);
     }
   }
 };
